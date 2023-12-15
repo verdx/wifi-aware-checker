@@ -1,12 +1,8 @@
 # WiFi Aware Checker Android App
 
-Brought to you by [Ditto - Sync without Internet](https://www.ditto.live).
-
-## [Download this app on Google Play Store](https://play.google.com/store/apps/details?id=live.ditto.wifiawarechecker)
-
-<a href="https://play.google.com/store/apps/details?id=live.ditto.wifiawarechecker">
-    <img src="https://raw.githubusercontent.com/steverichey/google-play-badge-svg/master/img/en_get.svg" height=60>
-</a>
+This is a fork of app https://github.com/getditto/wifi-aware-checker to add a couple more functionalities:
+  - Refreshing the app swiping down(https://github.com/getditto/wifi-aware-checker/pull/4)
+  - Checking the current availability of Wifi Aware, if it is ready to use in the moment(https://github.com/getditto/wifi-aware-checker/pull/3)
 
 This app quickly checks if your Android device supports WiFi Aware. Learn more about WiFi Aware here:
 [https://developer.android.com/guide/topics/connectivity/wifi-aware](https://developer.android.com/guide/topics/connectivity/wifi-aware).
